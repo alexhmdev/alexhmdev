@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻 I'm a JavaScript developer, currently focused in React and NodeJS<br>🤓 I love to learn new thinks and improve my coding skills<br>❤️‍🔥 Passionate about new technologies, videogames and JS<br><br>🧑🏻‍💻 Working on new things...<br><br>⚡Currently learning new things like Astro and improving my skills...<br>
 
-## My Website (WIP)
+## 🔗 My Website (WIP)
 
 [alexhm.dev](https://alexhm.dev)
 
