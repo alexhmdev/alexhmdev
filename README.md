@@ -3,7 +3,7 @@
 
 ## My Website (WIP)
 
-![alexhm.dev](https://alexhm.dev)
+[alexhm.dev](https://alexhm.dev)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-herrera-621451192) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AlexHM_13) 
