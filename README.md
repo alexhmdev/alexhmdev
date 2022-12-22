@@ -25,7 +25,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=peckas13&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Visitors](https://visitcount.itsvg.in/api?id=peckas13&icon=0&color=1)](https://visitcount.itsvg.in)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpeckas13&labelColor=%232ccce4&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpeckas13)
 
   ## 💰 You can help me by Donating
