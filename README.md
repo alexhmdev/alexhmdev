@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a JavaScript developer, currently focused in React and NodeJS<br>🤓 I love to learn new thinks and improve my coding skills<br>❤️‍🔥 Passionate about new technologies, videogames and JS<br><br>🧑🏻‍💻 Working on new things...<br> ⌨️ Try my JS challenger: [Drits-Challenger-JS](https://peckas13.github.io/drits-challenger-js/)<br><br>⚡Currently learning new things like Astro and improving my skills...<br>
+💻 I'm a JavaScript developer, currently focused in React and NodeJS<br>🤓 I love to learn new thinks and improve my coding skills<br>❤️‍🔥 Passionate about new technologies, videogames and JS<br><br>🧑🏻‍💻 Working on new things...<br> ⌨️ Try my JS challenger: [Drits-Challenger-JS](https://alexhmdev.github.io/drits-challenger-js/)<br><br>⚡Currently learning new things like Astro and improving my skills...<br>
 
 ## 🔗 My Website (WIP)
 
